@@ -1,4 +1,4 @@
-#IPL Data Analysis (2008-2024)
+###IPL Data Analysis (2008-2024)
 ##Welcome to the IPL Data Analysis repository! In this project, we explore the Indian Premier League (IPL) dataset spanning from 2008 to 2024. Our goal is to uncover interesting trends, team performances, player statistics, and more.
 
 Highlights:
